@@ -1,0 +1,66 @@
+h1{
+    color:aqua;
+    background-color: rgb(243, 243, 201);
+}
+p{ /*Element selector*/
+    color:rgb(222, 179, 6);
+}
+button{
+    color:rgb(173, 2, 246);
+    background-color: burlywood;
+}
+p{
+    background-color: azure;
+}
+body{
+    /* background-color: darkgrey; */
+    background-color: #ffbb00;
+}
+#Head1{
+    color:red;/*id selector */
+}
+#Head2{
+    color:burlywood;
+}
+/* We can use this background color option in sperate way or we can multiple styles in a single starter. */
+ /* *{
+    color:pink;used to apply style on every thing .
+ } */
+  .class1{ /*class selector*/
+    color:aqua;
+  }
+  #text{
+    text-align:center;
+    text-decoration:underline;
+  }
+  #p1{
+    text-align:left;
+    text-decoration:line-through;
+  }
+  a{
+    text-decoration: none;
+  }
+  #para1{
+    font-weight:bold;
+     font-family: Arial, Helvetica, sans-serif;
+     font-size: 30px;
+  }
+  #para2{
+    font-weight: lighter;
+    font-family: cursive;
+    font-size: 80px;
+  }
+  #para3{
+    font-weight: 100;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 25px;
+  }
+  #para4{
+    font-weight:900;
+    font-family:serif;
+    font-size: 50px;
+  }
+  #pix{
+    line-height:normal;
+    text-transform: uppercase;
+  }

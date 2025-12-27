@@ -1,0 +1,14 @@
+#myid{
+    color:blue
+}
+/* .myclass{
+    color:greenyellow;
+} */
+ h1,h2,h3{ /*both are corect and can use to apply style.*/
+    color:red;
+ }
+ button{
+    color:green;
+    background-color:brown;
+}
+ 
